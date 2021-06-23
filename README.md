@@ -32,4 +32,10 @@ If all tours are removed, the app displays a 'Refresh' button to retrieve all to
 
 For this I used conditional rendering again, which checks if all tours have been removed and renders a separate message and button accordingly. The button then fetches all tours again.
 
+## To Use
 
+- Git clone the repository to your local machine.
+- Run `yarn install` in your terminal to install dependencies.
+- Once installation is complete, run `yarn start` in your terminal.
+
+This should start the app in browser, ready for you to read and delete tours as you wish!
